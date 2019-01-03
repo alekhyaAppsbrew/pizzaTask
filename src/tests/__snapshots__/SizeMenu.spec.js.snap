@@ -1,0 +1,44 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SizeMenu Component renders without crashing 1`] = `
+<div>
+  <div
+    className="row"
+  >
+    <div
+      className="col-xs-4 col-xs-offset-4"
+    >
+      <h2>
+        Choose a size:
+      </h2>
+      <select
+        onChange={undefined}
+        value={undefined}
+      >
+        <option
+          value="small"
+        >
+          SMALL
+        </option>
+        <option
+          value="medium"
+        >
+          MEDIUM
+        </option>
+        <option
+          value="large"
+        >
+          LARGE
+        </option>
+      </select>
+      <br />
+      <span
+        className="button"
+        onClick={undefined}
+      >
+        Continue
+      </span>
+    </div>
+  </div>
+</div>
+`;

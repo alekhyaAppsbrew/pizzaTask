@@ -1,0 +1,28 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Cart Component renders without crashing 1`] = `
+<div>
+  <div
+    className="row"
+  >
+    <h1>
+      Your cart is empty
+    </h1>
+  </div>
+  <div
+    className="row"
+  >
+    <a
+      className="cart"
+      href="/"
+      onClick={[Function]}
+    >
+      <span
+        className="button"
+      >
+        Add pizzas
+      </span>
+    </a>
+  </div>
+</div>
+`;

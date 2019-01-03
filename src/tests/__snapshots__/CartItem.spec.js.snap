@@ -1,0 +1,100 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Cart Component renders without crashing 1`] = `
+<div>
+  <div
+    className="row"
+  >
+    <div
+      className="col-xs-2 col-xs-offset-1"
+    >
+      <h4>
+        small
+      </h4>
+    </div>
+    <div
+      className="cartItem col-xs-3"
+    >
+      <span />
+    </div>
+    <div
+      className="col-xs-2"
+    >
+      <select
+        className="quantitySelect"
+        onChange={[Function]}
+        value={undefined}
+      >
+        <option
+          value={1}
+        >
+          1
+        </option>
+        <option
+          value={2}
+        >
+          2
+        </option>
+        <option
+          value={3}
+        >
+          3
+        </option>
+        <option
+          value={4}
+        >
+          4
+        </option>
+        <option
+          value={5}
+        >
+          5
+        </option>
+        <option
+          value={6}
+        >
+          6
+        </option>
+        <option
+          value={7}
+        >
+          7
+        </option>
+        <option
+          value={8}
+        >
+          8
+        </option>
+        <option
+          value={9}
+        >
+          9
+        </option>
+        <option
+          value={10}
+        >
+          10
+        </option>
+      </select>
+    </div>
+    <div
+      className="col-xs-1"
+    >
+      <h4>
+        $
+        NaN
+      </h4>
+    </div>
+    <div
+      className="col-xs-1"
+    >
+      <h4
+        className="delete"
+        onClick={[Function]}
+      >
+        X
+      </h4>
+    </div>
+  </div>
+</div>
+`;

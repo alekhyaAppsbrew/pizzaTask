@@ -1,0 +1,154 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Form Component renders without crashing 1`] = `
+<div>
+  <div
+    className="row row"
+  >
+    <h2>
+      Size: 
+      SMALL
+    </h2>
+    <h4>
+      Base price: $
+      9.89
+    </h4>
+    <h5>
+      Max number of toppings: 
+      3
+    </h5>
+  </div>
+  <div
+    className="row"
+  >
+    <div
+      className="col-xs-4 col-xs-offset-2"
+    >
+      <h4>
+        Select your toppings:
+      </h4>
+    </div>
+    <div
+      className="col-xs-4 col-xs-offset-0"
+    >
+      <form
+        className="toppings"
+      >
+        <div>
+          <label>
+            <input
+              defaultChecked={false}
+              name="pepperoni"
+              onChange={[Function]}
+              type="checkbox"
+              value={
+                Object {
+                  "__typename": "topping",
+                  "name": "pepperoni",
+                  "price": 0.4,
+                }
+              }
+            />
+            pepperoni
+             ($
+            0.40
+            )
+          </label>
+          <br />
+        </div>
+      </form>
+    </div>
+  </div>
+  <div
+    className="row"
+  >
+    <label
+      className="quantityLabel"
+    >
+      Quantity:
+      <select
+        className="quantitySelect"
+        onChange={[Function]}
+        value={1}
+      >
+        <option
+          value={1}
+        >
+          1
+        </option>
+        <option
+          value={2}
+        >
+          2
+        </option>
+        <option
+          value={3}
+        >
+          3
+        </option>
+        <option
+          value={4}
+        >
+          4
+        </option>
+        <option
+          value={5}
+        >
+          5
+        </option>
+        <option
+          value={6}
+        >
+          6
+        </option>
+        <option
+          value={7}
+        >
+          7
+        </option>
+        <option
+          value={8}
+        >
+          8
+        </option>
+        <option
+          value={9}
+        >
+          9
+        </option>
+        <option
+          value={10}
+        >
+          10
+        </option>
+      </select>
+    </label>
+  </div>
+  <div
+    className="row"
+  >
+    <h4>
+      Total: $
+      9.89
+    </h4>
+  </div>
+  <div
+    className="row"
+  >
+    <span
+      className="button"
+      onClick={[Function]}
+    >
+      Add to Cart
+    </span>
+    <br />
+    <br />
+    <span
+      className="button"
+      onClick={undefined}
+    >
+      Go back
+    </span>
+  </div>
+</div>
+`;
