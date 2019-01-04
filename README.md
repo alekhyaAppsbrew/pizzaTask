@@ -34,6 +34,7 @@ npm test (yarn test)
 npm build (yarn build) 
 ```
 
+```
 FOLDER STRUCTURE:
 -----------------
 
@@ -52,5 +53,6 @@ pizzaTask/
   |-- package-lock.json        - Conatins list of npm packages with versions 
   |
   |-- README                   - Readme File
+  ```
 
 
