@@ -1,5 +1,6 @@
 
 STEPS TO RUN:
+------------
 
 1.Cone the Repo
 ```sh
@@ -32,3 +33,24 @@ npm test (yarn test)
 ```sh
 npm build (yarn build) 
 ```
+
+FOLDER STRUCTURE:
+-----------------
+
+pizzaTask/
+  |
+  |-- build/                   - Contains build related files
+  |
+  |-- node_modules/            - Contain node related js files(npm packages)
+  |
+  |-- public/                  - Contains files related to icon images,HTML files.
+  |
+  |-- src/                     - Contains Components,Containers,Actions,Reducers
+  |
+  |-- package.json             - Conatins list of npm packages to install 
+  |
+  |-- package-lock.json        - Conatins list of npm packages with versions 
+  |
+  |-- README                   - Readme File
+
+
