@@ -1,25 +1,3 @@
-This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
-
-
-Install packages
-```sh
-npm install (yarn) 
-```
-
-Run
-```sh
-npm start (yarn start) 
-```
-
-Test
-```sh
-npm test (yarn test) 
-```
-
-Build
-```sh
-npm build (yarn build) 
-```
 
 STEPS TO RUN:
 
@@ -43,12 +21,14 @@ npm install (yarn)
 npm start (yarn start) 
 ```
 
-5.Test
+5.Using this URL http://localhost:3000/ in browser we will be able to access the web application.
+
+6.Test
 ```sh
 npm test (yarn test) 
 ```
 
-6.Build
+7.Build
 ```sh
 npm build (yarn build) 
 ```
